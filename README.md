@@ -1,5 +1,5 @@
-# ePIC_preTDR_nHCal_DIS_MCPart
-Analysis of ePIC reconstructed data. Just follow these steps:
+# ePIC_preTDR_nHCal_Diff2Jet_Pythia
+Analysis of diffractive dijets with Pythia8 simulation. Just follow these steps:
 
 
 ### Create directories for condor jobs:
